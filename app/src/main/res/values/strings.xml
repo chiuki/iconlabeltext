@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Constraint Layout: Icon Label Text</string>
+  <string name="flower_label">Flower</string>
+  <string name="flower_text">Jasmine</string>
+</resources>
